@@ -8,4 +8,3 @@
 「変換モジュール開発キットおよびサンプル変換モジュール」の最小のライブラリ、兼、サンプル例となっています
 
 [https://秀丸マクロ.net/?page=nobu_tool_nobu_tool_hm_filter_micro](https://秀丸マクロ.net/?page=nobu_tool_nobu_tool_hm_filter_micro)
-ｋ
